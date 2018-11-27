@@ -1,7 +1,7 @@
-SOURCE_URL=https://github.com/streamaserver/streama/releases/download/v1.6.0-RC9/streama-1.6.0-RC9.war
-SOURCE_SUM=0111f3280025e9f330481bb85fb2bb0cdacb63912663564fea7169b9afbe78839bc6a9202b1527f73a5d462be237195d85fa24175e045c3bf727b3e62ff47bc0
+SOURCE_URL=https://cdn1.papercut.com/web/products/ng-mf/installers/ng/18.x/pcng-setup-18.3.2.47394.sh
+SOURCE_SUM=164d4e042b661e58d04e66a8b3c67b0cf454607fab3456dfccc7eeae7b740b1ee49c2d27eb3cfc0e313a04d75501bb612fc6890e3332dc39161a614103e47eda
 SOURCE_SUM_PRG=sha512sum
-SOURCE_FORMAT=war
+SOURCE_FORMAT=sh
 SOURCE_IN_SUBDIR=false
 SOURCE_EXTRACT=FALSE
-SOURCE_FILENAME=streama-1.6.0-RC9.war
+SOURCE_FILENAME=pcng-setup-18.3.2.47394.sh
